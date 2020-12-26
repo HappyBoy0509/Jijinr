@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Project
 - 🤔 I’m looking for help with Open Source
 - 💬 Ask me about anything
-- 📫 How to reach me: Telegram - [@D_ar_k_Angel](https://t.me/D_ar_k_Angel)
+- 📫 How to reach me: Telegram - [@DforDarkAngel](https://t.me/DforDarkAngel)
 - ⚡ fact: I am Noob😌
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DarkAngel&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
