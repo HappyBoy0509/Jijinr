@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![telegram badge](https://img.shields.io/badge/Happy Boy-30302f?style=flat&logo=telegram)](https://t.me/happyboy59)
+[![telegram badge](https://img.shields.io/badge/HappyBoy-30302f?style=flat&logo=telegram)](https://t.me/happyboy59)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/happyboy0509/)
 
